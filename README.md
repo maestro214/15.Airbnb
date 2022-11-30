@@ -1,6 +1,6 @@
 # aop-part3-chapter07 - 에어비엔비
 
-# 목차
+## 목차
 
 1. 인트로 (완성앱 & 구현 기능 소개)
 2. 네이버 지도 API 사용하기
@@ -13,9 +13,20 @@
 9. 공유하기 기능 구현하기
 11. 마무리
 
+## 이 챕터를 통해 배우는 것
+
+- **Naver Map API** 사용하기
+- **ViewPager2** 사용하기
+- **FrameLayout** 알아보기
+- **CoordinatorLayout** 사용하기
+- **BottomSheetBehavior** 사용하기
+- **Retrofit** 사용하기
+- **Glide** 사용하기
 
 
-# 결과화면
+
+
+## 결과화면
 
 ![1](./screenshot/1.png)
 
@@ -25,15 +36,6 @@
 
 
 
-# 이 챕터를 통해 배우는 것
-
-- **Naver Map API** 사용하기
-- **ViewPager2** 사용하기
-- **FrameLayout** 알아보기
-- **CoordinatorLayout** 사용하기
-- **BottomSheetBehavior** 사용하기
-- **Retrofit** 사용하기
-- **Glide** 사용하기
 
 
 
